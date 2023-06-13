@@ -21,7 +21,7 @@ describe('introductionWithLanguageOptional(name, language)', function() {
   })
 })
 
-describe('introductionWithLanguageOptional(name, language)', function() {
+describe('c', function() {
   it('takes in two arguments, a name and a language, and the default value can be overridden with an argument', function() {
     expect(introductionWithLanguageOptional("Gracie", "Python")).toEqual("Hi, my name is Gracie and I am learning to program in Python.");
   })
